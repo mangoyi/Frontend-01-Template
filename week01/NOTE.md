@@ -7,11 +7,13 @@ Entity: An HTML entity is a piece of text ("string") that begins with an ampersa
 
 commmony used
 
-&	&amp;
-<	&lt;
->	&gt;
-"	&quot;
-' &apos;
+```
+  &	&amp;
+  <	&lt;
+  >	&gt;
+  "	&quot;
+  ' &apos;
+```
 
 compelete entity: 
 
